@@ -2,7 +2,7 @@ macro_ewtest1: macro_ewtest1{
     compatible = "zmk,behavior-macro";
     label = "EricFirstLabel";
     #binding-cells = <0>; #does this mean comment?
-    bindings = <&kp t>, <&kp h>, <&kp i>, <&kp s>, <&kp SPACE>, <&kp i>, <&kp s>,  <&kp a>,  <&kp t>, <&kp e>, <&kp s>, <&kp t>;
+    bindings = <&kp T>, <&kp H>, <&kp I>, <&kp S>, <&kp SPACE>, <&kp i>, <&kp s>,  <&kp a>,  <&kp t>, <&kp e>, <&kp s>, <&kp t>;
 }
 
 macro_ex_quotes: macro_ex_quotes{
